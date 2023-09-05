@@ -15,7 +15,6 @@ const {
 
 
 const TimerMixin = require('react-timer-mixin');
-const ViewPager = require('@react-native-community/viewpager');
 
 import PagerView from 'react-native-pager-view';
 
